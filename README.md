@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🔭 Master’s student at EPFL, currently conducting research at Yale University in the Laboratory for Intelligent Global Health Technologies under the guidance of Prof. Annie Hartley. The primary research project focuses on the Meditron initiative, which involves developing a LLM tailored for medicine, particularly in low resource settings.
 <!--
 **Xkrilandar/Xkrilandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
