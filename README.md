@@ -10,6 +10,13 @@ I am contributing to the development of Meditron, a large language model (LLM) d
 * Leading synthetic data initiatives for model training.
 * Developing a multi-agent framework to improve model interactions.
 * Fine-tuning pre-trained models (e.g., Llama-70b) for medical applications.
+#### The weights for Meditron-3[70B] and Meditron-3[8B] are now available on Huggingface.:
+- [OpenMeditron/Meditron3-8B](OpenMeditron/Meditron3-8B)
+- [OpenMeditron/Meditron3-70B](OpenMeditron/Meditron3-70B)
+#### To know more:
+- 📚 Meta AI blog: [Meditron: An LLM suite especially suited for low-resource medical settings leveraging Meta Llama](https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/)
+- 🗞️ Press Release for Meditron v1: [EPFL's new Large Language Model for Medical Knowledge](https://actu.epfl.ch/news/epfl-s-new-large-language-model-for-medical-knowle/)
+- 🦾 Repo: [OpenMeditron](https://github.com/OpenMeditron)
 
 ## 🏆 Selected Publications
 * **Meditron Paper**
