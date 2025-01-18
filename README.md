@@ -2,7 +2,7 @@
 
 🔭 Master’s student at **EPFL**, currently conducting research at **Yale University** in the Laboratory for Intelligent Global Health Technologies under the guidance of Prof. Annie Hartley. The primary research project focuses on the Meditron initiative, which involves developing a LLM tailored for medicine, particularly in low resource settings. 
 
-[mywebsite]([url](https://xkrilandar.github.io/xavier-theimer-lienhard.github.io/))
+[mywebsite](https://xkrilandar.github.io/xavier-theimer-lienhard.github.io/)
 
 
 ## 🧠 Current Research
