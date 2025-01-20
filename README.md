@@ -1,18 +1,19 @@
-## Hi there 👋
+## Hi, I'm Xavier 👋
 
-🔭 Master’s student at **EPFL**, currently conducting research at **Yale University** in the Laboratory for Intelligent Global Health Technologies under the guidance of Prof. Annie Hartley. The primary research project focuses on the Meditron initiative, which involves developing a LLM tailored for medicine, particularly in low resource settings. 
+Master’s student at **EPFL**, currently doing research at **Yale University** in the [LiGHT](https://www.yale-light.org/) lab under the heavenly guidance of [Prof. Annie Hartley](https://www.linkedin.com/in/anniehartley). 
 
-[mywebsite](https://xkrilandar.github.io/xavier-theimer-lienhard.github.io/)
+[Visit my website](https://xkrilandar.github.io/xavier-theimer-lienhard.github.io/)
 
 
 ## 🧠 Current Research
 
 ### 🌟 Meditron Project (Yale University & EPFL)
-I am contributing to the development of Meditron, a large language model (LLM) designed for medicine, particularly for low-resource settings. Key areas include:
+I am contributing to the development of Meditron, a large language model (LLM) designed for medicine, particularly for low-resource settings. 
+#### Key areas include:
 * Leading synthetic data initiatives for model training.
 * Developing a multi-agent framework to improve model interactions.
 * Fine-tuning pre-trained models (e.g., Llama-70b) for medical applications.
-#### The weights for Meditron-3[70B] and Meditron-3[8B] are now available on Huggingface.:
+#### The weights for Meditron-3[70B] and Meditron-3[8B] are now available on Huggingface:
 - [OpenMeditron/Meditron3-8B](OpenMeditron/Meditron3-8B)
 - [OpenMeditron/Meditron3-70B](OpenMeditron/Meditron3-70B)
 #### To know more:
